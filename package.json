@@ -28,8 +28,12 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@jcofman/react-use-css-custom-property",
-  "author": "jcofman",
+  "author": {
+    "name": "jcofman",
+    "email": "cofman.jacob@gmail.com",
+    "url": "https://jcofman.com"
+  },
+  "name": "react-use-css-custom-property",
   "module": "dist/react-use-computed-style.esm.js",
   "devDependencies": {
     "@types/jest": "^25.1.4",

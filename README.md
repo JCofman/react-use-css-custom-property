@@ -37,7 +37,7 @@ Sometimes you want to change or get a CSS custom property value inside you react
 
 ## 🚀 Installation
 
-`npm i @jcofman/react-use-css-custom-property --save` or `yarn add @jcofman/react-use-css-custom-property`
+`npm i react-use-css-custom-property --save` or `yarn add react-use-css-custom-property`
 
 ## Usage
 
@@ -48,7 +48,7 @@ import 'react-app-polyfill/ie11';
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import './index.css';
-import useCSSCustomProperty from '@jcofman/react-use-css-custom-property';
+import useCSSCustomProperty from 'react-use-css-custom-property';
 
 const App = () => {
   const [firstColor, setFirstColor] = useCSSCustomProperty('--first-color');
