@@ -1,0 +1,23 @@
+:root {
+  --first-color: hotpink;
+  --second-color: white;
+}
+
+#firstParagraph {
+  background-color: var(--first-color);
+  color: var(--second-color);
+}
+
+#secondParagraph {
+  background-color: var(--second-color);
+  color: var(--first-color);
+}
+
+#container {
+  --first-color: #b3d4fc;
+}
+
+#thirdParagraph {
+  background-color: var(--first-color);
+  color: var(--second-color);
+}
