@@ -36,14 +36,14 @@
   "name": "react-use-css-custom-property",
   "module": "dist/react-use-computed-style.esm.js",
   "devDependencies": {
-    "@types/jest": "^25.1.4",
-    "@types/react": "^16.9.23",
-    "@types/react-dom": "^16.9.5",
+    "@types/jest": "^25.2.1",
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.6",
     "doctoc": "^1.4.0",
-    "husky": "^4.2.3",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "tsdx": "^0.12.3",
+    "husky": "^4.2.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "tsdx": "^0.13.1",
     "tslib": "^1.11.1",
     "typescript": "^3.8.3"
   }
